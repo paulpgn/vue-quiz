@@ -3,7 +3,7 @@
 <h1 align="center">Vue Quiz</h1>
 
 <div align="center">
-   Vue quiz made from a <a href="https://www.youtube.com/watch?v=6cXWWOxrZiw">videa tutorial </a>
+   Vue quiz made from a <a href="https://www.youtube.com/watch?v=6cXWWOxrZiw">video tutorial </a>
 </div>
 
 <div align="center">
