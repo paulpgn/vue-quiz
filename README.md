@@ -3,12 +3,12 @@
 <h1 align="center">Vue Quiz</h1>
 
 <div align="center">
-   Vue quiz made from a videa tutorial <a href="https://www.youtube.com/watch?v=6cXWWOxrZiw">.
+   Vue quiz made from a <a href="https://www.youtube.com/watch?v=6cXWWOxrZiw">videa tutorial </a>
 </div>
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://deft-taffy-d40aa0.netlify.app/">
       Demo
     </a>
 
@@ -21,7 +21,6 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
-- [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -31,19 +30,14 @@
 ## Overview
 
 ![Capture](https://user-images.githubusercontent.com/105318234/168264633-083d784c-e61b-4eed-9df3-3f92b27a8cb2.JPG)
-
+Screenshot of the first question.
+Made following a youtube tutorial from Tyler Potts
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [Vue.js](https://vuejs.org/)
-
-
-## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
 
 
 ## How To Use
@@ -54,7 +48,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/paulpgn/vue-quiz
 
 # Install dependencies
 $ npm install
